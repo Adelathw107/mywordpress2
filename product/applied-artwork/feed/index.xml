@@ -11,11 +11,25 @@
 	<atom:link href="https://adelathw107.github.io/mywordpress2/product/applied-artwork/feed/" rel="self" type="application/rss+xml" />
 	<link>https://adelathw107.github.io/mywordpress2/product/applied-artwork/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 12 Oct 2022 02:58:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Oct 2022 14:59:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
-</channel>
+	<item>
+		<title>
+		By: doanminhthu		</title>
+		<link>https://adelathw107.github.io/mywordpress2/product/applied-artwork/#comment-13</link>
+
+		<dc:creator><![CDATA[doanminhthu]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 14:59:26 +0000</pubDate>
+		<guid isPermaLink="false">https://adelathw107.github.io/mywordpress2/?post_type=product&#038;p=13#comment-13</guid>
+
+					<description><![CDATA[The product very good and I hightlight recomment]]></description>
+			<content:encoded><![CDATA[<p>The product very good and I hightlight recomment</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
