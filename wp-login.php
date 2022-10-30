@@ -36,7 +36,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="http://localhost/myproject/wordpress/wp-admin/post.php">
+									<input type="hidden" name="redirect_to" value="http://localhost/myproject/wordpress/wp-admin/">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -61,7 +61,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
 <option value="vi" lang="vi" data-installed="1">Tiếng Việt</option></select>
 					
-											<input type="hidden" name="redirect_to" value="http://localhost/myproject/wordpress/wp-admin/post.php">
+											<input type="hidden" name="redirect_to" value="http://localhost/myproject/wordpress/wp-admin/">
 					
 					
 						<input type="submit" class="button" value="Change">
@@ -84,7 +84,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://adelathw107.github.io/mywordpress2/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://adelathw107.github.io/mywordpress2/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"d6084b1d0f"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"1f5293f2da"};</script>
 <script src="https://adelathw107.github.io/mywordpress2/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
